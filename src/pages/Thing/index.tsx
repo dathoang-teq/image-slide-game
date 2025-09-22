@@ -6,7 +6,7 @@ import image2 from "../../assets/images/one/bicycle.webp";
 import image3 from "../../assets/images/one/cardholder.jpg";
 import image4 from "../../assets/images/one/Dustbin.jpg";
 import image5 from "../../assets/images/one/lamp.webp";
-import image6 from "../../assets/images/one/mouse-pad.jpeg";
+import image6 from "../../assets/images/one/mousePad.jpg";
 import image7 from "../../assets/images/one/Passport.webp";
 import image8 from "../../assets/images/one/perfume.webp";
 import image9 from "../../assets/images/one/Toothbrushs.jpg";
