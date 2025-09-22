@@ -1,16 +1,16 @@
 import { Navigation } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 
-import imageBatteries from "../../assets/images/four/BOWL.jpg";
-import imageBicycle from "../../assets/images/four/Chair.png";
-import imageCardholder from "../../assets/images/four/FRIDGE.jpg";
-import imageCar from "../../assets/images/four/glasses.jpg";
-import imageLamp from "../../assets/images/four/HAIR-DRYER.avif";
-import imageMousePad from "../../assets/images/four/helmet.webp";
-import imagePassport from "../../assets/images/four/Remote.jpeg";
-import imagePerfume from "../../assets/images/four/Speaker.jpg";
-import imageToothbrushs from "../../assets/images/four/TRAFIC-LIGHT.webp";
-import imageWatch from "../../assets/images/four/umbrella.avif";
+import image1 from "../../assets/images/four/BOWL.jpg";
+import image2 from "../../assets/images/four/Chair.png";
+import image3 from "../../assets/images/four/FRIDGE.jpg";
+import image4 from "../../assets/images/four/glasses.jpg";
+import image5 from "../../assets/images/four/HAIR-DRYER.avif";
+import image6 from "../../assets/images/four/helmet.webp";
+import image7 from "../../assets/images/four/remote.webp";
+import image8 from "../../assets/images/four/Speaker.jpg";
+import image9 from "../../assets/images/four/TRAFIC-LIGHT.webp";
+import image10 from "../../assets/images/four/umbrella.avif";
 
 import "./New.css";
 
@@ -19,16 +19,16 @@ import "swiper/css/navigation";
 
 const Home = () => {
   const imagesFromfour = [
-    imageBatteries,
-    imageBicycle,
-    imageCardholder,
-    imageCar,
-    imageLamp,
-    imageMousePad,
-    imagePassport,
-    imagePerfume,
-    imageToothbrushs,
-    imageWatch,
+    image1,
+    image2,
+    image3,
+    image4,
+    image5,
+    image6,
+    image7,
+    image8,
+    image9,
+    image10,
   ];
 
   return (
